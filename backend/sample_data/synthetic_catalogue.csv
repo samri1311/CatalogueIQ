@@ -1,0 +1,11 @@
+sku,product_name,description,category,brand,price,currency,color,material,size,stock_quantity,product_url,image_url,warehouse_note
+SKU-001,Classic Cotton T-Shirt,Soft crew neck tee,T-Shirts,Acme,19.99,USD,Blue,Cotton,M,120,https://shop.example.com/p/1,https://img.example.com/1.jpg,Aisle 4
+SKU-002,Classic Cotton T-Shirt,Soft crew neck tee,T-Shirts,Acme,19.99,USD,Blue,Cotton,L,80,https://shop.example.com/p/2,https://img.example.com/2.jpg,Aisle 4
+SKU-003,Classic Cotton Tshirt,Soft crew-neck tee,tshirts,Acme,19.99,USD,Red,Cotton,M,35,https://shop.example.com/p/3,https://img.example.com/3.jpg,
+SKU-004,Running Shoes Pro,Lightweight running shoe,Sneakers,SwiftFoot,-500,USD,Black,Mesh,42,15,https://shop.example.com/p/4,https://img.example.com/4.jpg,Fragile
+SKU-004,Trail Running Shoes,Grippy trail shoe,Sneakers,SwiftFoot,89.00,USD,Green,Mesh,43,-3,https://shop.example.com/p/5,https://img.example.com/5.jpg,
+SKU-006,  Stainless Water Bottle ,Keeps drinks cold 24h,Kitchen,HydroMax,"$1,299.00",usd,Silver,Steel,750ml,40,not a url,https://img.example.com/6.jpg,
+SKU-007,Stainless Water Bottle,Keeps drinks cold 24h,kitchen,HydroMax,24.50,,Silver,Steel,750ml,10.0,https://shop.example.com/p/7,,
+SKU-008,Wireless Mouse,,Electronics,,abc,USD,Black,Plastic,,5,https://shop.example.com/p/8,https://img.example.com/8.jpg,
+,Laptop Stand,Adjustable aluminium stand,Electronics,DeskCo,34.00,XYZ,Silver,Aluminium,,60,ftp://files.example.com/9,https://img.example.com/9.jpg,
+SKU-010,Garden Hose 20m,Durable hose,Garden,GreenThumb,abc 12,EUR,Green,Rubber,20m,12,https://shop.example.com/p/10,https://img.example.com/10.jpg,

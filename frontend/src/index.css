@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center gap-1 rounded-md border border-slate-300 bg-white px-2.5 py-1 text-sm font-medium text-slate-700 hover:bg-slate-50 disabled:opacity-50;
+  }
+  .btn-primary {
+    @apply inline-flex items-center gap-1 rounded-md bg-indigo-600 px-2.5 py-1 text-sm font-medium text-white hover:bg-indigo-700 disabled:opacity-50;
+  }
+}
