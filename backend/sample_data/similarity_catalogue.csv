@@ -1,0 +1,22 @@
+sku,product_name,description,category,brand,price,currency,color,material,size
+L01,Classic Cotton T-Shirt,Soft crew neck tee made from 100% cotton,T-Shirts,Acme,19.99,USD,Blue,Cotton,M
+L02,Classic Cotton Tshirt,"Soft crew-neck tee, 100% cotton",T-Shirts,Acme,19.99,USD,Blue,Cotton,M
+L03,Stainless Steel Water Bottle 750ml,Insulated bottle keeps drinks cold for 24 hours,Kitchen,HydroMax,24.50,USD,Silver,Steel,750ml
+L04,Stainless Steel Water Bottle 750 ml,Insulated bottle that keeps drinks cold for 24 hours,Kitchen,HydroMax,24.50,USD,Silver,Steel,750ml
+L05,Running Shoes Pro,Lightweight running shoe with breathable mesh,Sneakers,SwiftFoot,89.00,USD,Black,Mesh,42
+L06,Running Shoes Pro,Lightweight running shoe with breathable mesh,Sneakers,SwiftFoot,89.00,USD,Black,Mesh,43
+L07,Wireless Mouse,Ergonomic wireless mouse with USB receiver,Electronics,ClickTech,15.00,USD,Black,Plastic,
+L08,Wireless Mouse,Ergonomic wireless mouse with USB receiver,Electronics,ClickTech,15.00,USD,White,Plastic,
+L09,Adjustable Aluminium Laptop Stand,Foldable stand for laptops up to 17 inches,Electronics,DeskCo,34.00,USD,Silver,Aluminium,
+L10,Laptop Stand Adjustable Aluminium,Foldable stand for laptops up to 17 inches,Electronics,DeskCo,34.00,USD,Silver,Aluminium,
+L11,Men's Slim Fit Denim Jeans,Slim fit jeans for men in stretch denim,Jeans,Denimo,49.90,USD,Indigo,Denim,32
+L12,"Slim fit jeans for men, denim",Men's stretch denim jeans with a slim fit,Jeans,Denimo,49.90,USD,Indigo,Denim,32
+L13,Wireless Keyboard,Compact wireless keyboard with USB receiver,Electronics,ClickTech,29.00,USD,Black,Plastic,
+L14,Trail Running Shoes,Grippy trail running shoe for muddy paths,Sneakers,SwiftFoot,95.00,USD,Green,Mesh,42
+L15,Stainless Steel Coffee Mug,Double-wall mug keeps coffee hot for hours,Kitchen,HydroMax,14.00,USD,Silver,Steel,350ml
+L16,Garden Hose 20m,Durable reinforced garden hose,Garden,GreenThumb,22.00,USD,Green,Rubber,20m
+L17,Yoga Mat Non-Slip,Thick non-slip yoga mat for home workouts,Fitness,ZenFit,25.00,USD,Purple,Foam,
+L18,Ceramic Dinner Plate Set,Set of four glazed ceramic plates,Kitchen,HomeNest,39.00,USD,White,Ceramic,
+L19,Bluetooth Speaker Mini,Portable waterproof bluetooth speaker,Electronics,SoundWave,45.00,USD,Blue,Plastic,
+L20,LED Desk Lamp,Dimmable LED lamp with USB charging port,Home,BrightCo,32.00,USD,White,Plastic,
+L21,Leather Wallet,Slim bifold wallet in genuine leather,Accessories,Craftsy,40.00,USD,Brown,Leather,
